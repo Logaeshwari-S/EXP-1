@@ -1,10 +1,13 @@
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+
 AIM
+
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
+
 S.No.	Components	Range	Quantity
 1	Resistor	1kΩ	3
 2	Voltmeter (DC)	0-30V	3
@@ -14,12 +17,14 @@ S.No.	Components	Range	Quantity
 6	Connecting wires		As required
 
 THEORY:
+
 KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
 KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
 PROCEDURE:
+
 a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -44,40 +49,44 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- <img width="1041" height="597" alt="image" src="https://github.com/user-attachments/assets/4aef30bd-6fa5-4230-9f98-ec82f120533c" />
 
+<img width="1453" height="757" alt="image" src="https://github.com/user-attachments/assets/d9e33665-96ee-4104-925c-00bf5e0240cd" />
 
 
 b.  KCL:
- <img width="975" height="663" alt="image" src="https://github.com/user-attachments/assets/61ee430d-1917-4e4d-9a93-93b7ca74a788" />
 
+<img width="1443" height="766" alt="image" src="https://github.com/user-attachments/assets/21c3c11b-d52e-404e-af2a-a23e62100c74" />
+
+ 
 
 Calculation:
 
 a.   KVL:
 
-<img width="517" height="753" alt="image" src="https://github.com/user-attachments/assets/cd70375c-afb8-46f8-8514-a2542198124f" />
+<img width="1221" height="772" alt="image" src="https://github.com/user-attachments/assets/72ab9568-b4ba-4e20-b117-189e1a9703f4" />
 
-
+<img width="1202" height="866" alt="image" src="https://github.com/user-attachments/assets/39bf728a-9c92-43a4-b963-8fa0fe408c74" />
 
 
 b.  KCL:
 
-<img width="347" height="592" alt="image" src="https://github.com/user-attachments/assets/30101044-5f7f-4d89-9214-ba876a13264c" />
+<img width="1192" height="826" alt="image" src="https://github.com/user-attachments/assets/efa99425-43ce-47f8-9bde-3a579ef0502b" />
 
+<img width="670" height="912" alt="image" src="https://github.com/user-attachments/assets/958f1c73-7fae-49a7-b6e5-d357f65cc56e" />
 
 
 Tabulation:
 
 a.   KVL:
 
-<img width="520" height="156" alt="image" src="https://github.com/user-attachments/assets/87dab4b3-314a-4470-aa88-352ee8c2c017" />
+<img width="1260" height="691" alt="image" src="https://github.com/user-attachments/assets/6124e6f2-79a4-4ec0-841f-3514dbb99192" />
+
 
 
 
 b.  KCL:
 
-<img width="457" height="138" alt="image" src="https://github.com/user-attachments/assets/83cfd36f-3a96-4e3c-b029-1a77de59477a" />
+<img width="1273" height="606" alt="image" src="https://github.com/user-attachments/assets/205264db-9975-4245-9fe6-90a33863398b" />
 
 
 
